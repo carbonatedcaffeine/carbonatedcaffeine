@@ -1,4 +1,4 @@
-### Introduction 
+# Introduction 
 Hi, my name is Camden 👋, i'm a kernel developer which currectly resides in New Zealand. I love to go on hikes and learn new things.
 
 ## History
