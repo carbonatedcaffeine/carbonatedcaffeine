@@ -9,3 +9,5 @@ I first used Linux at the age of 7/8 and loved it. I used crouton a lot on my ch
 * The Pangolin UI is named after another shelled animal like the Armadillo. 🐚
 * I use a server from 2007 to play games and to compile big projects on. 🖥️
 * I'm currently working towards porting a few devices to fuchsia in the future. 🌸
+
+![Camden's github stats](https://github-readme-stats.vercel.app/api?username=EnderNightLord-Chromebook)
