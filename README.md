@@ -7,7 +7,7 @@ I first used Linux at the age of 7/8 and loved it. I used crouton a lot on my ch
 ### Facts
 * My favourite colour is purple. 🟣
 * The Pangolin UI is named after another shelled animal like the Armadillo. 🐚
-* I use a server from 2007 to play games and to compile big projects on. 🖥️
-* I'm currently working towards porting a few devices to fuchsia in the future. 🌸
+* I'm currently working on SkiffOS and dahliaOS, I'm working a lot on the pinephone currently.
+* I can get burned out a lot, so if you do find me to be burned out, maybe you could help give me a little motivation :).
 
 ![Camden's github stats](https://github-readme-stats.vercel.app/api?username=EnderNightLord-Chromebook)
